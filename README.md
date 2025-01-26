@@ -117,7 +117,7 @@ npm start
 4. Open Pull Requests
 
 ## Contact
-Rohan Dol - rohandol112@example.com
+Rohan Dol - rohan45321dol@gmail.com
 
 Project Links:
 - Backend: [https://github.com/rohandol112/sustainable-ecommerce-backend](https://github.com/rohandol112/sustainable-ecommerce-backend)
