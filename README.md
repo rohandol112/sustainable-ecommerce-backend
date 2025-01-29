@@ -115,9 +115,3 @@ npm start
 2. Create feature branches
 3. Commit changes
 4. Open Pull Requests
-
-## Contact
-Rohan Dol - rohan45321dol@gmail.com
-
-Project Links:
-- Backend: [https://github.com/rohandol112/sustainable-ecommerce-backend](https://github.com/rohandol112/sustainable-ecommerce-backend)
